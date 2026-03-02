@@ -1,0 +1,225 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+"Señor usuario favor ingrese la marca del vehiculo dentro de comillas simples (Chevrolet-Mazda-Toyota-Renault-Audi-BMW )"
+5
+1
+5
+marca
+4
+1
+54
+"Escriba el precio de venta del vehicuo señor usuario"
+5
+1
+6
+precio
+7
+0
+1
+17
+marca="Chevrolet"
+7
+0
+1
+13
+marca="Mazda"
+7
+0
+1
+14
+marca="Toyota"
+7
+0
+1
+15
+marca="Renault"
+7
+0
+1
+12
+marca="Audi"
+7
+0
+1
+11
+marca="BMW"
+13
+7
+0
+1
+15
+valor>200000000
+7
+0
+1
+15
+valor>=95000000
+4
+1
+27
+"El valor asignado es bajo"
+13
+4
+1
+41
+"El valor asignado al vehiculo es modico"
+13
+13
+4
+1
+39
+"El valor asigando al vehiculo es alto"
+13
+13
+13
+7
+0
+1
+15
+precio>90000000
+7
+0
+1
+16
+precio>=60000000
+4
+1
+40
+"El precio asigando al vehiculo es bajo"
+13
+4
+1
+42
+"El precio asignado al vehiculo es modico"
+13
+13
+4
+1
+40
+"El precio asigando al vehiculo es alto"
+13
+13
+13
+7
+0
+1
+15
+precio>70000000
+7
+0
+1
+15
+valor<=50000000
+4
+1
+39
+"El valor asignado al vehiculo es bajo"
+13
+4
+1
+41
+"El valor asignado al vehiculo es modico"
+13
+13
+4
+1
+40
+"El precio asignado al vehiculo es alto"
+13
+13
+13
+7
+0
+1
+15
+precio>95000000
+7
+0
+1
+16
+precio>=40000000
+4
+1
+40
+"El precio asignado al vehiculo es bajo"
+13
+4
+1
+42
+"El precio asignado al vehiculo es modico"
+13
+13
+4
+1
+40
+"El precio asigando al vehiculo es alto"
+13
+13
+13
+7
+0
+1
+15
+precio>60000000
+7
+0
+1
+16
+precio>=45000000
+4
+1
+40
+"El precio asigando al vehiculo es bajo"
+13
+4
+1
+42
+"El precio asignado al vehiculo es modico"
+13
+13
+4
+1
+40
+"El precio asignado al vehiculo es alto"
+13
+13
+13
+7
+0
+1
+16
+precio> 30000000
+7
+0
+1
+16
+precio>=20000000
+4
+1
+40
+"El precio asignado al vehiculo es bajo"
+13
+4
+1
+42
+"El precio asignado al vehiculo es modico"
+13
+13
+4
+1
+41
+"El precio asignado al vehiculo es alto "
+13
+13
+4
+1
+78
+"Gracias por confiar en nosotros para encontrar el valor ideal en su vehiculo"
+1
